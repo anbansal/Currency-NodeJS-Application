@@ -1,0 +1,16 @@
+{
+  "name": "currencyConverter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CurrencyConverter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node CurrencyConverter.js"
+  },
+  "author": "Ankur Bansal",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "request": "^2.83.0"
+  }
+}
